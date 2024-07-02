@@ -90839,7 +90839,7 @@ A.aat.prototype={
 L2(a){$.asr().n(0,this,a)}}
 A.MN.prototype={
 I(a){var s=null,r=A.uL(a).Tj(A.bS([B.aK,B.bg,B.b3],t.C))
-return new A.A6(B.FR,"Todo App",A.CO(s,A.axu(s,B.j,B.ae,s,s,B.L8),"tanha",B.X8,s),!1,r,s)}}
+return new A.A6(B.FR,"\u062e\u0648\u062f \u0628\u0627\u0644",A.CO(s,A.axu(s,B.j,B.ae,s,s,B.L8),"tanha",B.X8,s),!1,r,s)}}
 A.ix.prototype={}
 A.PK.prototype={
 AS(a,b){var s,r,q,p,o,n="Not enough bytes available.",m=b.f,l=m+1
